@@ -2,7 +2,7 @@
 
 A 2D sprite animation & movement engine built entirely in RISC-V Assembly. Designed for LED matrix displays and educational projects, this project shows how low-level logic can bring sprites to life! 🚀
 
-![Demo GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzlkdzNhb293Z2d4ZW11amJ5aHBhbHV6NzM4Ynh1cHEzdTVtOWNuMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7SN7VRxzzcby9nyKJV/giphy.gif)
+![Gameplay GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzlkdzNhb293Z2d4ZW11amJ5aHBhbHV6NzM4Ynh1cHEzdTVtOWNuMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7SN7VRxzzcby9nyKJV/giphy.gif)  
 
 
 ---
